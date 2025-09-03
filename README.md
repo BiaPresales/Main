@@ -1,2 +1,2 @@
 # Main
-MainPage
+MainPage for Demo Smooth Print Solutions
